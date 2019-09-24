@@ -1,0 +1,6 @@
+school
+money
+room
+table
+home
+test
